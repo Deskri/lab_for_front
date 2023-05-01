@@ -1,0 +1,25 @@
+
+.bar {
+    justify-content: center!important;
+    box-shadow: 2px 0px 5px black;
+}
+
+.shadowToText {
+    text-shadow: 5px 5px 5px black;
+}
+
+.Marging {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.rounding {
+    border-radius: 10px;
+}
+
+.borderForm {
+    border: 2px;
+    border-style: groove;
+    border-radius: 10px;
+    padding: 40px;
+}
